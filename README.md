@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ayshen 👋
 
-<!--
-**Ayshen007/Ayshen007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer | C# | ASP.NET Core**
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,cs,dotnet,cpp,python,matlab,sql,git,github,docker)](https://skillicons.dev)
+
+## 🚀 About Me
+
+I'm a developer interested in building modern and scalable applications.
+
+* 💻 Backend Development
+* 🔹 C#
+* 🔹 ASP.NET Core
+* 🔹 Entity Framework Core
+* 🔹 SQL Server
+* 🔹 REST API
+* 🔹 React
+* 🔹 Next.js
+* 🔹 JavaScript
+* 🔹 HTML & CSS
+* 🔹 C++
+* 🔹 Python
+* 🔹 MATLAB
+* 🔹 Git & GitHub
+* 🔹 Docker
+
+## 📌 Currently Learning
+
+* Advanced ASP.NET Core
+* Clean Architecture
+* RESTful APIs
+* Docker
+* Backend System Design
+
+## 🎯 Goals
+
+To become a strong **Backend Developer** and build reliable, scalable and modern applications.
