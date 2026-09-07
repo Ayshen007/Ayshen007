@@ -3,7 +3,7 @@
 💻 **Backend Developer | C# | ASP.NET Core**
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,Tailwind,react,nextjs,cs,dotnet,cpp,python,matlab,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,tailwind,react,nextjs,cs,dotnet,cpp,python,matlab,git,github,docker)](https://skillicons.dev)
 
 ## 🚀 About Me
 
