@@ -4,7 +4,7 @@
 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,cs,dotnet,cpp,python,matlab,sql,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,cs,dotnet,cpp,python,matlab,sql,git,github,docker&perline=7)](https://skillicons.dev)
 
 ## 🚀 About Me
 
